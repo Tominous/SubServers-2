@@ -12,7 +12,7 @@
 
 config-version: 8
 settings:
-  debug: false
+  debug: true
   save-user-cache-on-stop-only: false
   bungeecord: true
   late-bind: false
